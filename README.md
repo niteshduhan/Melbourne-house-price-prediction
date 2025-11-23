@@ -14,7 +14,7 @@ Week 4: Feature Engineering — encoding, scaling, treating skewness, creating n
 Week 5: Model Building & Evaluation using Linear Regression, Random Forests, Gradient Boosting, and XGBoost.
 Deployment: Preparing a Streamlit web app to allow users to interactively input property details and get a price prediction.
 
-📂 Key Features
+# 📂 Key Features
 
 Clean and well-processed dataset
 Visual EDA with heatmaps, boxplots, and distribution analysis
@@ -24,7 +24,7 @@ Hyperparameter tuning
 Model performance metrics (MAE, RMSE, R²)
 Ready-to-deploy Streamlit app
 
-🧰 Tech Stack 
+# 🧰 Tech Stack 
 
 Python
 Pandas, NumPy, Matplotlib, Seaborn
@@ -32,7 +32,7 @@ Scikit-Learn, XGBoost
 Streamlit
 Google Colab
 
-📊 Results
+# 📊 Results
 
 • Designed and optimized an ML pipeline for Melbourne housing price prediction, achieving R² of 99.5% and 
 MAE of 13,993 AUD using CatBoost. 
@@ -40,7 +40,7 @@ MAE of 13,993 AUD using CatBoost.
 economic price drivers. 
 
 
-📁 Dataset
+# 📁 Dataset
 
 The project uses the Melbourne Housing Market dataset, containing property sales records with features like:
 
@@ -54,7 +54,7 @@ Building Area
 Year Built
 …and more.
 
-🤝 Contributions
+# 🤝 Contributions
 
 Contributions, suggestions, and improvements are welcome!
 Feel free to submit issues or pull requests.
