@@ -1,8 +1,8 @@
-🏡 Melbourne House Price Prediction — Data Science & Machine Learning Project
+# 🏡 Melbourne House Price Prediction — Data Science & Machine Learning Project
 
 This project focuses on building a predictive model for estimating house prices in Melbourne using the Melbourne Housing Market dataset. It covers the complete end-to-end data science workflow — from exploratory data analysis to feature engineering, model development, model evaluation, and deployment.
 
-🚀 Project Overview
+# 🚀 Project Overview
 
 The goal of this project is to develop a reliable and interpretable machine learning model capable of predicting property prices based on key factors such as location, property type, land size, building area, room count, and market conditions.
 
